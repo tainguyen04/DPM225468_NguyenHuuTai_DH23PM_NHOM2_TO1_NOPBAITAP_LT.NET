@@ -1,0 +1,10 @@
+Z:\BTH2\Bai2.9\bin\Debug\Bai2.9.exe.config
+Z:\BTH2\Bai2.9\bin\Debug\Bai2.9.exe
+Z:\BTH2\Bai2.9\bin\Debug\Bai2.9.pdb
+Z:\BTH2\Bai2.9\obj\Debug\Bai2.9.csproj.AssemblyReference.cache
+Z:\BTH2\Bai2.9\obj\Debug\Bai2._9.Form1.resources
+Z:\BTH2\Bai2.9\obj\Debug\Bai2._9.Properties.Resources.resources
+Z:\BTH2\Bai2.9\obj\Debug\Bai2.9.csproj.GenerateResource.cache
+Z:\BTH2\Bai2.9\obj\Debug\Bai2.9.csproj.CoreCompileInputs.cache
+Z:\BTH2\Bai2.9\obj\Debug\Bai2.9.exe
+Z:\BTH2\Bai2.9\obj\Debug\Bai2.9.pdb

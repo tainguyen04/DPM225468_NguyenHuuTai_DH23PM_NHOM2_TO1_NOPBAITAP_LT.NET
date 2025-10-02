@@ -1,0 +1,9 @@
+T:\FILE\file2\file3\123\BTH4\Bai3\bin\Debug\Bai3.exe.config
+T:\FILE\file2\file3\123\BTH4\Bai3\bin\Debug\Bai3.exe
+T:\FILE\file2\file3\123\BTH4\Bai3\bin\Debug\Bai3.pdb
+T:\FILE\file2\file3\123\BTH4\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+T:\FILE\file2\file3\123\BTH4\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+T:\FILE\file2\file3\123\BTH4\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+T:\FILE\file2\file3\123\BTH4\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+T:\FILE\file2\file3\123\BTH4\Bai3\obj\Debug\Bai3.exe
+T:\FILE\file2\file3\123\BTH4\Bai3\obj\Debug\Bai3.pdb

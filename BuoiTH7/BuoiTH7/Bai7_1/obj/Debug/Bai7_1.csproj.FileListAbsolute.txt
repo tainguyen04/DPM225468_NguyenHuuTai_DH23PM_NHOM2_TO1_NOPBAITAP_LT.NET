@@ -1,0 +1,9 @@
+Z:\BuoiTH7\BuoiTH7\Bai7_1\bin\Debug\Bai7_1.exe.config
+Z:\BuoiTH7\BuoiTH7\Bai7_1\bin\Debug\Bai7_1.exe
+Z:\BuoiTH7\BuoiTH7\Bai7_1\bin\Debug\Bai7_1.pdb
+Z:\BuoiTH7\BuoiTH7\Bai7_1\obj\Debug\Bai7_1.csproj.AssemblyReference.cache
+Z:\BuoiTH7\BuoiTH7\Bai7_1\obj\Debug\Bai7_1.Properties.Resources.resources
+Z:\BuoiTH7\BuoiTH7\Bai7_1\obj\Debug\Bai7_1.csproj.GenerateResource.cache
+Z:\BuoiTH7\BuoiTH7\Bai7_1\obj\Debug\Bai7_1.csproj.CoreCompileInputs.cache
+Z:\BuoiTH7\BuoiTH7\Bai7_1\obj\Debug\Bai7_1.exe
+Z:\BuoiTH7\BuoiTH7\Bai7_1\obj\Debug\Bai7_1.pdb

@@ -1,0 +1,7 @@
+T:\FILE\file2\file3\123\Bai6_1\obj\Debug\Bai6_1.csproj.AssemblyReference.cache
+T:\FILE\file2\file3\123\Bai6_1\obj\Debug\Bai6_1.csproj.CoreCompileInputs.cache
+T:\FILE\file2\file3\123\Bai6_1\bin\Debug\Bai6_1.exe.config
+T:\FILE\file2\file3\123\Bai6_1\bin\Debug\Bai6_1.exe
+T:\FILE\file2\file3\123\Bai6_1\bin\Debug\Bai6_1.pdb
+T:\FILE\file2\file3\123\Bai6_1\obj\Debug\Bai6_1.exe
+T:\FILE\file2\file3\123\Bai6_1\obj\Debug\Bai6_1.pdb

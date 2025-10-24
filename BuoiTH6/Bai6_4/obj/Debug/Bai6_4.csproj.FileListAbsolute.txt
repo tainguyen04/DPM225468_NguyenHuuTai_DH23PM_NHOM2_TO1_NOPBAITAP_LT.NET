@@ -1,0 +1,7 @@
+T:\FILE\file2\file3\123\BuoiTH6\Bai6_4\bin\Debug\Bai6_4.exe.config
+T:\FILE\file2\file3\123\BuoiTH6\Bai6_4\bin\Debug\Bai6_4.exe
+T:\FILE\file2\file3\123\BuoiTH6\Bai6_4\bin\Debug\Bai6_4.pdb
+T:\FILE\file2\file3\123\BuoiTH6\Bai6_4\obj\Debug\Bai6_4.csproj.AssemblyReference.cache
+T:\FILE\file2\file3\123\BuoiTH6\Bai6_4\obj\Debug\Bai6_4.csproj.CoreCompileInputs.cache
+T:\FILE\file2\file3\123\BuoiTH6\Bai6_4\obj\Debug\Bai6_4.exe
+T:\FILE\file2\file3\123\BuoiTH6\Bai6_4\obj\Debug\Bai6_4.pdb
